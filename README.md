@@ -1,0 +1,1 @@
+# chef-staging-sally
